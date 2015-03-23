@@ -1,7 +1,7 @@
 boxmaker
 ========
 
-This is an Adobe Illustrator script to create Tab-and-Slot Boxes which can be cut out on a laser cutter.
+This JavaScript code creates Tab-and-Slot Boxes which can be cut out on a laser cutter.
 
 Input, Length, Width, Height, and Material Thickness into a dialog. 
 
